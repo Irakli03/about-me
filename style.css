@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+    
+}
+
+.h1Class{
+    color:rgb(9, 10, 10);
+    font-family: Monospace;
+    text-align: center;
+
+}
+
+
+.imgClass{
+    clip-path: circle();
+    width: 250px;
+    height: 250px;
+
+}
+
+.divClass{
+    color: rgb(9, 10, 10);
+    font-family: Monospace;
+    font-size: 15px;
+}
